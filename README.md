@@ -8,7 +8,7 @@ Facebook Video Downloader is a Chrome extension that lets you download videos fr
 
 ### Method 1: Install from ZIP file
 
-1. Download the `facebook-video-downloader.zip` file
+1. Download the [facebook-video-downloader.zip](https://github.com/kywthiha/facebook-video-downloader/archive/refs/tags/v1.0.0.zip) file file
 2. Extract the ZIP file to a folder on your computer
 3. Open Chrome and type `chrome://extensions/` in the address bar
 4. Turn on "Developer mode" using the toggle switch in the top-right corner
@@ -18,7 +18,7 @@ Facebook Video Downloader is a Chrome extension that lets you download videos fr
 
 ### Method 2: Install from GitHub
 
-1. Go to the GitHub repository: [https://github.com/[USERNAME]/facebook-video-downloader](https://github.com/[USERNAME]/facebook-video-downloader)
+1. Go to the GitHub repository: [https://github.com/kywthiha/facebook-video-downloader](https://github.com/kywthiha/facebook-video-downloader)
 2. Click on "Releases" on the right side of the page
 3. Download the latest ZIP file
 4. Follow steps 2-7 from Method 1 above
