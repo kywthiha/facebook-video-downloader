@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Background circle -->
+  <circle cx="64" cy="64" r="64" fill="#1877F2"/>
+  
+  <!-- Play triangle with shadow -->
+  <path d="M47 37v54l47-27z" fill="white"/>
+  
+  <!-- Download arrow -->
+  <path d="M64 70L80 54H70V34H58V54H48L64 70Z" fill="white"/>
+  <path d="M40 80H88V100H40V80Z" fill="white"/>
+</svg>

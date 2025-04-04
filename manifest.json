@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Facebook Video Downloader",
+  "version": "1.0",
+  "description": "Download videos from Facebook easily",
+  "permissions": ["activeTab", "scripting", "downloads"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/icon128.svg",
+      "48": "images/icon128.svg",
+      "128": "images/icon128.svg"
+    }
+  },
+  "icons": {
+    "16": "images/icon128.svg",
+    "48": "images/icon128.svg",
+    "128": "images/icon128.svg"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.facebook.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
